@@ -1,5 +1,5 @@
-# desision-trees
-my coursework for 2 semester
+# decision-trees
+my coursework for 2nd semester
 
 predicting credit risks and assigning a binary credit score
 
